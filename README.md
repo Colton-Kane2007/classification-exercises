@@ -72,4 +72,4 @@
 
 # Key findings, recommendations, and takeaways from my project:
 * My main takeaway is that the data shows a correlation between higher rates of churn and customers with month-to-month contracts, customers paying with an electronic check, customers with fiber optic internet service, customers who pay more monthly, customers with no partner, customers with no dependents, and customers who use paperless billing. 
-* I would recommend longer contracts or an incentive to stay, and finding a way to make every customer's monthly payment closer to equal to each other. The rest of the drivers of churn are determined by outside forces that the company could not affect.
+* I would recommend an incentive to stay, and finding a way to make every customer's monthly payment closer to equal to each other. The rest of the drivers of churn are determined by outside forces that the company could not affect.
