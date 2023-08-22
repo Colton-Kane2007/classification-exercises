@@ -50,6 +50,7 @@
  
 * Explore data in search of drivers of churn
    * Answer the following initial questions
+       * Are there any surprises in the data?
        * Does a month-to-month contract lead to higher rate of churn?
        * How often has churn occured compared to no churn?
        * Does gender affect churn?
