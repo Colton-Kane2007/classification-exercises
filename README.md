@@ -5,10 +5,10 @@
 
 # Initial hypotheses and/or questions I have of the data, ideas:
 * The main question I'm asking of the data is 'What are the main drivers of churn?' and subsequently 'What actions could I recommend to a stakeholder in order to reduce churn?'
-* More specifically, my initial hypothesis is that the shorter contract term is the biggest driver in churn, because people paying month-to-month can leave any time.
+* More specifically, my initial hypothesis is that the shorter contract term is the biggest driver in churn, because people paying month-to-month might not be given an incentive to stay.
 
 # Data Dictionary:
-|Feature|Dtype|
+|Feature|Dtype, Description|
 |:--------|:-----------|
 |payment_type_id|	int64, numerical version of payment type, respectively|
 |internet_service_type_id|	int64, numerical version of internet service type, respectively|
